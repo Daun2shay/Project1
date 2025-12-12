@@ -1,7 +1,7 @@
 import sys
 from PyQt6.QtWidgets import QApplication, QMainWindow, QWidget, QVBoxLayout, QLabel, QPushButton, QLineEdit, QMessageBox
 from typing import Callable
-
+# Used AI to help with the GUI
 class VotingApp(QMainWindow):
     """
     A PyQt6 GUI application for the voting system.
